@@ -1,0 +1,1 @@
+from .django_notebook import load_ipython_extension
