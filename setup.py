@@ -8,7 +8,7 @@ setup(
   author = 'Adrien Emery',
   author_email = 'adrien.emery@gmail.com',
   url = 'https://github.com/adrienemery/django-ipython', # use the URL to the github repo
-  download_url = 'https://github.com/Davideddu/python-cmdmessenger/tarball/0.1',
+  download_url = 'https://github.com/adrienemery/django-ipython/releases/tag/0.1',
   keywords = ['ipython', 'notebook', 'jupyter', 'django'],
   classifiers = [],
 )
